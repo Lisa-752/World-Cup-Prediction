@@ -1,0 +1,54 @@
+former_name,canonical_name,notes
+South Korea,Korea Republic,Common English name → FIFA name
+North Korea,Korea DPR,Common English name → FIFA name
+Ivory Coast,Côte d'Ivoire,English → French official FIFA name
+DR Congo,Congo DR,Word order differs across datasets
+Zaire,Congo DR,Former name 1971-1997 in Kaggle data
+Congo,Congo DR,Ambiguous short form
+Cape Verde,Cabo Verde,English → Portuguese official FIFA name
+Czech Republic,Czechia,Old name → new official name since 2016
+Turkey,Türkiye,English → official rebranded name since 2022
+Iran,IR Iran,Short form → FIFA full name
+USA,United States,Abbreviation → FIFA full name
+United States of America,United States,Long form → FIFA name
+Bosnia-Herzegovina,Bosnia and Herzegovina,Hyphenated → spaced FIFA name
+Bosnia & Herzegovina,Bosnia and Herzegovina,Ampersand variant
+Korea Republic of,Korea Republic,Grammatical variant
+Republic of Korea,Korea Republic,Grammatical variant
+Netherlands,Netherlands,Already canonical
+Holland,Netherlands,Informal name sometimes in old data
+West Germany,Germany,Pre-1990 reunification — in Kaggle historical data
+East Germany,Germany,Pre-1990 reunification — treat as same for model
+Soviet Union,Russia,FIFA successor state rule
+USSR,Russia,Abbreviation of Soviet Union
+Yugoslavia,Serbia,FIFA successor — most results attributed to Serbia
+Czechoslovakia,Czechia,Dissolved 1993 — attributed to Czechia by FIFA
+Serbia and Montenegro,Serbia,Former union dissolved 2006
+FR Yugoslavia,Serbia,Federal Republic variant in old data
+Swaziland,Eswatini,Country renamed in 2018
+Macedonia,North Macedonia,Renamed 2019
+FYR Macedonia,North Macedonia,Former name used in FIFA until 2019
+FYROM,North Macedonia,Abbreviation variant
+Kingdom of eSwatini,Eswatini,Long form
+Chinese Taipei,Chinese Taipei,Already canonical — not China
+China PR,China PR,Already canonical
+Trinidad & Tobago,Trinidad and Tobago,Ampersand variant
+Trinidad and Tobago,Trinidad and Tobago,Already canonical
+UAE,United Arab Emirates,Abbreviation
+U.S. Virgin Islands,US Virgin Islands,Punctuation variant
+Saint Kitts and Nevis,St Kitts and Nevis,Abbreviation variant
+Saint Lucia,St Lucia,Abbreviation variant
+Saint Vincent and the Grenadines,St Vincent and the Grenadines,Abbreviation variant
+Kyrgyz Republic,Kyrgyzstan,Alternative name
+Curacao,Curaçao,Missing special character
+IR Iran,IR Iran,Already canonical
+Korea Republic,South Korea,Already canonical
+Côte d'Ivoire,Côte d'Ivoire,Already canonical
+DR Congo,Congo DR,Already canonical
+Cabo Verde,Cabo Verde,Already canonical
+Czechia,Czechia,Already canonical
+Türkiye,Türkiye,Already canonical
+United States,United States,Already canonical
+Bosnia and Herzegovina,Bosnia and Herzegovina,Already canonical
+North Macedonia,North Macedonia,Already canonical
+Eswatini,Eswatini,Already canonical
